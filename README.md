@@ -12,9 +12,9 @@ This project demonstrates the use of YOLO v3 for object detection, specifically 
 
 To run this project, you will need to install the following dependencies:
 
-- Python 3.x
-- OpenCV
-- NumPy
+- Python 3.11.9
+- OpenCV 4.8.1.78
+- NumPy 1.26.0
 
 You can install the required Python packages using pip:
 
