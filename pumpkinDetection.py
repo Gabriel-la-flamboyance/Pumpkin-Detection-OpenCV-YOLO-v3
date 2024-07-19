@@ -2,7 +2,7 @@ import cv2
 import numpy as np          
 
 # Charger le modèle YOLO avec les poids et la configuration
-net = cv2.dnn.readNet('yolov3_training_final.weights', 'yolov3_testing.cfg')
+net = cv2.dnn.readNet('yolov3_training_final.weights', 'yolov3_testing.cfg') # Download the weights here --> https://drive.google.com/file/d/1P6PJe-5K9yO1YX9X7XR_78d29Mdmun7K/view?usp=sharing
 
 # Lire les noms des classes depuis un fichier
 classes = []
