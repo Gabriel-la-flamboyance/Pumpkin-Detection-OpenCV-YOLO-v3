@@ -4,6 +4,7 @@
 This project demonstrates the use of YOLO v3 for object detection, specifically for detecting pumpkins in a video stream. The implementation uses OpenCV for video processing and deep learning inference.
 
 ## Table of Contents
+I'll spare you the image collection and model training on google colab details, to jump directly on the detection step. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
