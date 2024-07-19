@@ -32,8 +32,9 @@ You can install the required Python packages using pip:
   python pumpkinDetection.py
 
 
-## Files
+## Files 
 
+- Train_YoloV3_citrouille.ipynb : To train your own model and get the .weights file. 
 - detect_pumpkins.py: Main script for detecting pumpkins in a video stream.
 - yolov3_testing.cfg: YOLO v3 configuration file.
 - yolov3_training_final.weights: Trained weights file for YOLO v3. # COULDN'T PUSH IT HERE, PLEASE DOWNLOAD IT HERE --> https://drive.google.com/file/d/1P6PJe-5K9yO1YX9X7XR_78d29Mdmun7K/view?usp=sharing
